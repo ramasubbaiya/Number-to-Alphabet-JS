@@ -1,0 +1,19 @@
+{
+  "name": "number-to-alphabet-js",
+  "version": "1.0.0",
+  "description": "Convert a number to alphabet ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramasubbaiya/Number-to-Alphabet-JS.git"
+  },
+  "author": "Ramasubbaiya Adaikkalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramasubbaiya/Number-to-Alphabet-JS/issues"
+  },
+  "homepage": "https://github.com/ramasubbaiya/Number-to-Alphabet-JS#readme"
+}
